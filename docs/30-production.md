@@ -17,4 +17,4 @@ Our production authorisation server uses the strict profile defined above and te
 - Confirmation of Funds API: https://rs1.ob.keebo.io/open-banking/v3.1/cbpii/**
 
 ## Test accounts
-If you require test accounts please contact mailto:{prod_contact_us_email}
+If you require test accounts please contact mailto:{openbanking@keebo.com}
